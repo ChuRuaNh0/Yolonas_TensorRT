@@ -1,4 +1,4 @@
-# **YOLOV8 Torch2TRT-batchedNMS**
+# **YOLONAS Torch2TRT-batchedNMS**
 
 ## Environment
 
